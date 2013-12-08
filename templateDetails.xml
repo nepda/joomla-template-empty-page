@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.6//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension
+	version="2.5"
+	type="template"
+	client="site">
+	<name>empty-page</name>
+	<creationDate>8.12.2013</creationDate>
+	<author>Nepomuk Fraedrich</author>
+	<authorEmail>info@nepda.eu</authorEmail>
+	<authorUrl>http://nepda.eu/</authorUrl>
+	<copyright>nepda</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<version>2.5.0</version>
+	<description>Just an empty page for displaying what you want</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+	</files>
+</extension>
