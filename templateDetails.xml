@@ -10,7 +10,7 @@
 	<authorEmail>info@nepda.eu</authorEmail>
 	<authorUrl>http://nepda.eu/</authorUrl>
 	<copyright>nepda</copyright>
-	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<license>The MIT License (MIT)</license>
 	<version>2.5.0</version>
 	<description>Just an empty page for displaying what you want</description>
 	<files>
